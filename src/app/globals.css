@@ -25,3 +25,16 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.table-margin {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.transaction-header {
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  font-size: 30px;
+  font-weight: bolder;
+}
